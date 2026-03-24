@@ -251,3 +251,8 @@ and medicine search features will not work correctly.
 7. Open `http://localhost:3000` in your browser and log in using the **demo credentials**.
 
 By following only this README, a user can **clone the project, set up the missing files, and run the complete AI Health Guidance Medicine Portal** without changing any paths or folder names. 
+
+
+If you are facing any issues you can contact me regarding this project through:-
+Mail:- yammanurusravani@gmail.com
+Linkedin:-https://www.linkedin.com/in/sravani-yammanuru/ (Sravani Yammanuru)
